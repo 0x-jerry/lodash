@@ -6,7 +6,7 @@
   "main": "dist/lodash.js",
   "sideEffects": false,
   "scripts": {
-    "prepare": "vitest run"
+    "test": "vitest run"
   },
   "devDependencies": {
     "vitest": "^1.0.2"
